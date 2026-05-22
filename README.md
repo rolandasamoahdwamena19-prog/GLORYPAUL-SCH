@@ -1,2 +1,3 @@
 # GLORYPAUL-SCH
 Official website created for GLORYPAUL school to facilitate digital information sharing.
+https://kaleidoscopic-fudge-a2e436.netlify.app/
